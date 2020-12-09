@@ -1,5 +1,4 @@
-from sklearn import datasets
-from sklearn import linear_model, cluster
+from sklearn import linear_model, cluster, datasets
 import matplotlib.pyplot as plt
 import pandas as pd
 
